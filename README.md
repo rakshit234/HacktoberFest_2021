@@ -11,7 +11,7 @@ Pull request and add any feature to the website.:octocat:
 
 Special thanks:+1: to:
 
-** ⭐️ Contributors ⭐️ **
+<strong> ⭐️ Contributors ⭐️ </strong>
 
 * [Raja Harsh Vardhan Singh](https://github.com/rhvsingh)
 
