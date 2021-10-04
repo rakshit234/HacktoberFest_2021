@@ -6,7 +6,7 @@
 <center>:sparkles:<h4>1 OCTOBER - 31 OCTOBER</h4>:sparkles:<center>
 Pull request and add any feature to the website.:octocat:
     
-* [Click here to visit the website.](https://rakshit234.github.io/HacktoberFest_2021/)
+* [Click here to visit the website.](https://rakshit234.github.io/Hacktoberfest_2021/)
 * [Click here to register for hacktoberfest2021.](https://hacktoberfest.digitalocean.com/)
     
 ## Contributing Steps
